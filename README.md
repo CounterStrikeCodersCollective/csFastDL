@@ -1,6 +1,6 @@
 # FastDL for CS:GO Server
 
-Any of these Files are not created by me!
+Any of these Files are not created by us!
 
 I will add every Source to every addon in this ReadMe File!
 
